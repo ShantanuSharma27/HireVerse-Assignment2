@@ -16,7 +16,7 @@ function Navbar() {
               Profile
             </div>
           </Link> */}
-          <Link to='/logout'>
+          <Link to='/'>
             <div className='nav-items'>
               <i className='fa-sharp fa-solid fa-right-from-bracket' />
               Logout
